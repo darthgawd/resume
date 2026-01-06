@@ -12,10 +12,12 @@ I’ve been building in crypto since **2020**, with hands-on experience across *
 - NFT-based metaverse and play-to-earn project on Binance Smart Chain  
 - Integrated token rewards, NFT mechanics, and early metaverse concepts  
 - Worked on token deployment, reward structures, and wallet compatibility
+-  Achieved **9,000+ on-chain transfers via PancakeSwap**, real user activity and liquidity usage  
 
-🔗
-- https://magick-finance.netlify.app/
-- https://bscscan.com/token/0x6F89660fEf8B6a03a41E5F3d0306645BE2469eFE
+Links
+- Staking Platform - https://magick-finance.netlify.app/
+- Main Website - https://darkmagick.netlify.app/
+- Contract & Transfers - https://bscscan.com/token/0x6F89660fEf8B6a03a41E5F3d0306645BE2469eFE
 
 ---
 
