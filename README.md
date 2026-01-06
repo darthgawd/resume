@@ -18,7 +18,7 @@ I’ve been building in crypto since **2020**, with hands-on experience across *
 Links
 - Staking Platform - https://magick-finance.netlify.app/
 - Main Website - https://darkmagick.netlify.app/
-- Contract & Transfers - https://bscscan.com/token/0x6F89660fEf8B6a03a41E5F3d0306645BE2469eFE
+- Smart Contract - https://bscscan.com/token/0x6F89660fEf8B6a03a41E5F3d0306645BE2469eFE
 
 ---
 
@@ -28,8 +28,8 @@ Links
 - 200+ on-chain transfers  
 
 Links
-- https://recallfinance.netlify.app/
-- https://etherscan.io/token/0x02614aeb11cfbffdb68bbee50a498ae947181dae
+- Main Website - https://recallfinance.netlify.app/
+- Smart Contract - https://etherscan.io/token/0x02614aeb11cfbffdb68bbee50a498ae947181dae
 
 ---
 
