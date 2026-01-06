@@ -8,7 +8,7 @@ I’ve been building in crypto since **2020**, with hands-on experience across *
 
 ## 🔗 Web3 & Blockchain Experience
 
-### **Dark Magick** (2020) — **BEP-20**
+### **Dark Magick** (2021) — **BEP-20**
 - NFT-based metaverse and play-to-earn project on Binance Smart Chain  
 - Integrated token rewards, NFT mechanics, and early metaverse concepts  
 - Worked on token deployment, reward structures, and wallet compatibility
