@@ -14,6 +14,7 @@ I’ve been building in crypto since **2020**, with hands-on experience across *
 - Responsibilities included token deployment, supply mechanics, and wallet compatibility  
 
 🔗 https://magick-finance.netlify.app/
+Contract - https://bscscan.com/token/0x6F89660fEf8B6a03a41E5F3d0306645BE2469eFE
 
 ---
 
