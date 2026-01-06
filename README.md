@@ -12,7 +12,8 @@ I’ve been building in crypto since **2020**, with hands-on experience across *
 - NFT-based metaverse and play-to-earn project on Binance Smart Chain  
 - Integrated token rewards, NFT mechanics, and early metaverse concepts  
 - Worked on token deployment, reward structures, and wallet compatibility
--  Achieved **9,000+ on-chain transfers via PancakeSwap**, real user activity and liquidity usage  
+- Achieved **9,000+ on-chain transfers via PancakeSwap**, real user activity and liquidity usage
+- Listed on CoinMarketCap and CoinGecko
 
 Links
 - Staking Platform - https://magick-finance.netlify.app/
@@ -23,9 +24,12 @@ Links
 
 ### **Recall Finance** (2021) — **ERC-20**
 - DeFi-oriented token project deployed on Ethereum  
-- Worked on smart contract deployment, liquidity mechanics, and explorer verification  
+- Worked on smart contract deployment, liquidity mechanics, and explorer verification
+- 200+ on-chain transfers  
 
-🔗 https://recallfinance.netlify.app/
+Links
+- https://recallfinance.netlify.app/
+- https://etherscan.io/token/0x02614aeb11cfbffdb68bbee50a498ae947181dae
 
 ---
 
