@@ -13,8 +13,9 @@ I’ve been building in crypto since **2020**, with hands-on experience across *
 - Integrated token rewards, NFT mechanics, and early metaverse concepts  
 - Worked on token deployment, reward structures, and wallet compatibility
 
-🔗-https://magick-finance.netlify.app/
-  -https://bscscan.com/token/0x6F89660fEf8B6a03a41E5F3d0306645BE2469eFE
+🔗
+- https://magick-finance.netlify.app/
+- https://bscscan.com/token/0x6F89660fEf8B6a03a41E5F3d0306645BE2469eFE
 
 ---
 
